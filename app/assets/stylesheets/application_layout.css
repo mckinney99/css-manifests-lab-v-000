@@ -1,5 +1,7 @@
 /*
 *= require vendor/stylesheets/jquery-addon.css
+*= require vendor/stylesheets/jquery-addon.css
 *= require hidden_styles
+*= require blogs
 *= require pages
 */
